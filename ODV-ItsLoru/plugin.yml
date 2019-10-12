@@ -1,0 +1,27 @@
+name: ODV
+author: Ubisoft
+version: 1.0
+main: at.ubisoft.odv.main.Core
+commands:
+  gamemode: 
+    aliases: [gm]
+  warp:
+  set:
+  start:
+  forcestart:
+  adminplaying:
+  spectate:
+    aliases: [spec]
+  mod:
+  stopcountdown:
+  fly:
+  alive:
+  teleport:
+    aliases: [tp]
+  teleporthere:
+    aliases: [tphere]
+  gamemaster:
+  backpack:
+    aliases: [bp]
+  ende:
+  odv:
